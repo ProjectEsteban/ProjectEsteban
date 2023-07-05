@@ -22,11 +22,11 @@ i've got some small projects currently that just strike my interests right now b
 * Learning Python, with the goal of creating a small chess game for my class' final project
 * Small house architecture designs
 
-#what am i learning?
+# what am i learning?
 *  i read Electrician books somedays on my freetime at work
 *  Python for fun as my first coding language
 *  SQL for my major
 *  House Architectual Design and Interior Designing
 
-#what can i use help in?
+# what can i use help in?
 i would appreciate any links to videos or books on anything i mentioned under 'learning' that are easy to follow, simple fun projects or books that you would personally recommend
